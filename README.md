@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Khushi Gupta
 
-🎓 Final Year MCA Student (2025-2027)
+🎓 Final Year MCA Student | Class of 2027
 
 I'm an MCA student passionate about software development and continuous learning. I enjoy building practical projects, strengthening my problem-solving skills, and exploring modern web technologies. My current focus is becoming a well-rounded Software Engineer by building real-world applications and writing clean, maintainable code.
 
