@@ -60,7 +60,7 @@ I'm an MCA student passionate about software development and continuous learning
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: (http://www.linkedin.com/in/khushi-gupta-a86b36283)
+* 💼 LinkedIn: [Khushi Gupta](https://www.linkedin.com/in/khushi-gupta-a86b36283/)
 * 📧 Email: (mailto:khushigupta8009@gmail.com)
 
 ---
